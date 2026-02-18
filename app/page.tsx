@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black p-10 text-white">
       <h1 className="text-4xl font-bold text-center text-red-900 mb-30">
-         THEATRE 🍿
+        unknown
       </h1>
 
       {/* 🔵 Mapping thudangunnu */}
